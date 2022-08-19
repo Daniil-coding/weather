@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="cityInputTitle">city</string>
+    <string name="internetAccessError" id="@+id/internetAccessError">Internet is invaluable.</string>
+    <string name="invalidCity" id="@+id/invalidCity">This city name is invalid.</string>
+    <string name="emptyInput" id="@+id/emptyInput">Пустой запрос.</string>
+    <string name="city" id="@+id/city">city</string>
+    <string name="temperature" id="@+id/temperature">temperature</string>
+    <string name="feels" id="@+id/feels">feels like</string>
+</resources>

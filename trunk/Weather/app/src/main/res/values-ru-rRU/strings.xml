@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="cityInputTitle">город</string>
+    <string name="internetAccessError">Нет подключения к интернету.</string>
+    <string name="invalidCity" id="@+id/invalidCity">Нет такого города.</string>
+    <string name="emptyInput" id="@+id/emptyInput">Пустой запрос.</string>
+    <string name="city" id="@+id/city">город</string>
+    <string name="temperature" id="@+id/temperature">температура</string>
+    <string name="feels" id="@+id/feels">ощущается</string>
+</resources>
